@@ -1,5 +1,4 @@
 # My Biweekly Implementation of a topic of interest. 
-courtesy of Jon Topielski. lol, thanks for the idea.
 
 Because this is my "blog" I decided to write as unprofessionally as possible. 
 Please excuse my grammar, spelling, and any other errors you might stumble across reading my "implementation of sorts".
@@ -40,8 +39,6 @@ They then proceded to "randomly" throw darts at it, counting up the total number
 It was surprising accurate, so I decided to give it a try.
 
 If you still don't understand what I'm saying, feel free to just run the file. ALL WILL BE EXPLAINED.
-or watch the video: https://www.youtube.com/watch?v=M34TO71SKGk, ALL WILL BE EXPLAINED.
-or to be honest, I don't care what you do.
-ALL WILL BE EXPLAINED.
+or watch the video: https://www.youtube.com/watch?v=M34TO71SKGk, 
 ----
 
